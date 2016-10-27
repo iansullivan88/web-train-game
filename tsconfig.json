@@ -1,0 +1,13 @@
+{
+    "compileOnSave": true,
+    "buildOnSave": true,
+    "compilerOptions": {
+        "outFile": "trains.js",
+        "sourceMap": true,
+        "noImplicitAny": true
+    },
+    "include": [
+        "node_modules/phaser/phaser.d.ts",
+        "ts/**/*"
+    ]
+}
